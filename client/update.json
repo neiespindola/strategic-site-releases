@@ -1,0 +1,11 @@
+{
+  "version": "2.8.9",
+  "download_url": "https://github.com/neiespindola/strategic-site-releases/releases/download/v2.8.9/strategic-site-standalone-v2.8.9.zip",
+  "homepage": "https://github.com/neiespindola/strategic-site-releases",
+  "author": "Strategic Site",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-10-03 20:00:00",
+  "changelog": "<h4>2.8.9</h4><ul><li>Consolidação da base com os recursos da versão 2.0.2 e melhorias posteriores.</li><li>Cadastro de usuários com criação e confirmação de senha.</li><li>Tratamento seguro de falhas de convite e reset de senha.</li><li>Novos controles visuais para a tela de login.</li></ul>"
+}

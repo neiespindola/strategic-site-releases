@@ -1,0 +1,11 @@
+{
+  "version": "1.9.9",
+  "download_url": "https://github.com/neiespindola/strategic-site-releases/releases/download/v1.9.9/strategic-site-central-v1.9.9.zip",
+  "homepage": "https://github.com/neiespindola/strategic-site-releases",
+  "author": "Strategic Site Central",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-10-03 20:00:00",
+  "changelog": "<h4>1.9.9</h4><ul><li>Identidade atualizada para Strategic Site Central.</li><li>Manifesto e pacotes personalizados alinhados à base atual do Strategic Site.</li></ul>"
+}
